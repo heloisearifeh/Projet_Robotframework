@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1 (Python 3.11.3 on win32)" generated="20230613 14:38:52.762" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot002Feature" source="C:\POEC Testing\Projet_Robotframework\testsuites\Robot002Feature.robot">
+<test id="s1-t1" name="Mon quatrieme Test" line="20">
+<kw name="Log" library="BuiltIn">
+<arg>Mon quatrieme test</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230613 14:38:52.777" level="INFO">Mon quatrieme test</msg>
+<status status="PASS" starttime="20230613 14:38:52.777" endtime="20230613 14:38:52.777"/>
+</kw>
+<doc>Mon quatrieme test</doc>
+<status status="PASS" starttime="20230613 14:38:52.777" endtime="20230613 14:38:52.777"/>
+</test>
+<doc>Exercices Robot Framework</doc>
+<status status="PASS" starttime="20230613 14:38:52.762" endtime="20230613 14:38:52.777"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot002Feature">Robot002Feature</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
